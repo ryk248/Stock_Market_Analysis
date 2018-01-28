@@ -21,3 +21,6 @@ Answered the following questions:
 3. Matplotlib
 4. Seaborn
 
+### Conclusion
+We have looked at the 1% empirical quantile of the final price distribution to estimate the Value at Risk for the Google stock, which looks to be $6.23 for every investment of 251 (the price of one initial google stock).
+This basically means for every initial stock you purchase your putting about $6.23 at risk 99% of the time from our Monte Carlo Simulation.
